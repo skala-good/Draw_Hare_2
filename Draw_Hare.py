@@ -7,7 +7,7 @@ FPS = 30
 screen = pygame.display.set_mode((400, 400))
 
 # Цвета
-grey = (169, 169, 169)
+grey = (165, 169, 169)
 dark_grey = (140, 140, 140)
 black = (0, 0, 0)         
 pink = (255, 182, 193)    
